@@ -30,7 +30,7 @@
 		<jsp-api.version>2.0</jsp-api.version>
 		
 		<!--引入在对象转化为json的工具  -->
-		<jackson.version>2.4.2</jackson.version>
+		<jackson.version>2.12.6.1</jackson.version>
 	</properties>
 	
 	<dependencies>
